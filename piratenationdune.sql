@@ -1,4 +1,4 @@
--- https://dune.com/queries/1789814/2950223
+-- https://dune.com/embeds/1789814/2948924   
 -- Number of Holders, Single Holders, Most owned
 
 WITH agg AS (
